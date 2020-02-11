@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(txt){
   if txt.upcase{
-    return ""
+    return "NO, NOT SINCE 1938!"
+  }else{
+    
   }
 }
 # Whatever you say to grandma, she should respond with
