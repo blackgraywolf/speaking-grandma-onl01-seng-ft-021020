@@ -3,7 +3,7 @@ def speak_to_grandma(txt){
   if txt.upcase{
     return "NO, NOT SINCE 1938!"
   }else{
-    
+    return "HUH?! SPEAK UP, SONNY!"
   }
 }
 # Whatever you say to grandma, she should respond with
