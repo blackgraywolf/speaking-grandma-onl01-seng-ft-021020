@@ -1,14 +1,16 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma(txt){
-  if txt=="I LOVE YOU GRANDMA!" {
+def speak_to_grandma(txt)
+  if txt=="I LOVE YOU GRANDMA!" 
     return "I LOVE YOU TOO PUMPKIN!"
-  }
-    elsif txt == txt.upcase{
+  end
+    elsif txt == txt.upcase
     return "NO, NOT SINCE 1938!"
-  }else{
+  end
+  else
     return "HUH?! SPEAK UP, SONNY!"
-  }
-}
+  end
+end
+
   
 
 
